@@ -1,3 +1,3 @@
 # HUH
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/GRk3GLfzduq1NtfGt5" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/BlackRosesPlayingCards-cat-meme-surprise-GRk3GLfzduq1NtfGt5">via GIPHY</a></p>
+![Cat Fun GIF by Black Roses Playing Cards](https://github.com/user-attachments/assets/0c2443f4-0762-4ffe-a48e-57ed85e2f240)
